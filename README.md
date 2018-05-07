@@ -1,5 +1,5 @@
 # Open Leadership Training Series for Civic Tech
-## Based on Moziilla's Open Leadership Serie
+## Based on Moziilla's Open Leadership Series
 How to work openly to build collaboratively *and* inclusively
 
 This Open Leadership Training Series teaches you best practices in “working open” -- a way of working where:
