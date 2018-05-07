@@ -1,5 +1,6 @@
-# Open Leadership Training Series
-How to work openly to build collaboratively
+# Open Leadership Training Series for Civic Tech
+## Based on Moziilla's Open Leadership Serie
+How to work openly to build collaboratively *and* inclusively
 
 This Open Leadership Training Series teaches you best practices in “working open” -- a way of working where:
 
@@ -22,20 +23,12 @@ You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to abby@mozillafoundation.org.
+This project adheres to Open Savannah's [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to carl@opensavannah.org. All reports will remain confidential.
 
 ## Contributors
 
-The material this repository is based on was written by [@zee-moz](https://github.com/zee-moz) and [@chadsansing](https://github.com/chadsansing). Many thanks to the wonderful contributors who've helped since to improve this series:
-
-* David Bild ([@dbild](https://github.com/dbild))
-* Zannah Marsh ([@zee-moz](https://github.com/zee-moz))
-* Tim Riches
-* Holly Robbins ([@hvrobbins](https://github.com/hvrobbins))
-* Chad Sansing ([@chadsansing](https://github.com/chadsansing))
-* Robert Schaefer ([@schae234](https://github.com/schae234))
-
-As well as all [contributors][gh-contributors] on GitHub.
++ [Carl V. Lewis](http://github.com/carlvlewis
++ [Aaron Pompei](http://github.com/aaronpompei
 
 ## License
 
